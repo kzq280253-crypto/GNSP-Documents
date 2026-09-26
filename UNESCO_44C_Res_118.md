@@ -1,30 +1,31 @@
-# 联合国教育、科学及文化组织
+# United Nations Educational, Scientific and Cultural Organization
 
 ## 44 C/Res. 118
 
-**第四十四届大会**
-**2028年6月14日 于巴黎**
+**General Conference, 44th session**  
+**Paris, 14 June 2028**
 
 ---
 
-### 决议：全球数字仿真世界平台（Global Nexus Simulation Platform, GNSP）——面向 2050 年可持续发展议程的重大科学基础设施
+### Resolution: Global Nexus Simulation Platform (GNSP) — Major Scientific Infrastructure for the Sustainable Development Agenda towards 2050
 
-**大会，**
+*The General Conference,*
 
-*回顾* 《组织法》第一条关于通过教育、科学及文化促进各国间合作的规定，
+*Recalling* the provisions of Article I of the Constitution regarding cooperation among nations through education, science and culture,
 
-*注意到* 2027 年 11 月 15 日在新加坡签署的《新加坡框架协议》所确立的"多国共建、数据共享、沙箱隔离、成果共有"四项原则，
+*Taking note of* the four principles established by the Singapore Framework Agreement signed on 15 November 2027 — "joint construction by multiple nations, shared data, sandbox isolation, shared outcomes",
 
-*确认* 全尺度数字仿真技术作为科学发现与政策预研工具的重大潜力，
+*Recognizing* the potential of full-scale digital simulation as a tool for scientific discovery and policy pre-research,
 
-1. **宣布**全球数字仿真世界平台（Global Nexus Simulation Platform, GNSP）为**面向 2050 年可持续发展议程的全球重大科学基础设施**；
+1. *Declares* the Global Nexus Simulation Platform (GNSP) a **major scientific infrastructure for the sustainable development agenda towards 2050**;
 
-2. **赞同**平台以 1:1 数字孪生方式复刻地球物理系统、生态系统与人类社会运行逻辑的科学架构，并确认其作为 2024 年 FlyWire 果蝇全脑连接组项目（《自然》第 634 卷，2024 年）进阶项目的传承定位；
+2. *Endorses* the platform's scientific architecture, which replicates at 1:1 fidelity the Earth's physical systems, ecosystems and the operating logic of human society, and confirms its positioning as the advanced successor of the FlyWire whole-brain connectome project of the fruit fly (*Nature*, vol. 634, 2024);
 
-3. **请**总干事主持平台全球治理委员会，并在 2029 年内完成治理委员会组建；
+3. *Requests* the Director-General to chair the platform's Global Governance Committee and to complete the formation of the Committee within 2029;
 
-4. **邀请**各成员国科学院与研究型大学参与平台共建。
+4. *Invites* national academies of sciences and research universities of Member States to participate in the joint construction of the platform.
 
 ---
 
-*2028年6月14日 第 44 届大会第 23 次全体会议*
+*14 June 2028*  
+*23rd plenary meeting*

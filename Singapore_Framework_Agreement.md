@@ -1,41 +1,40 @@
-# 新加坡框架协议
+# Singapore Framework Agreement
 
-## 关于设立全球数字仿真世界平台（Global Nexus Simulation Platform, GNSP）的框架协议
+## Framework Agreement on the Establishment of the Global Nexus Simulation Platform (GNSP)
 
-**签署日期：2027 年 11 月 15 日**
-**签署地点：新加坡共和国**
+**Signed: 15 November 2027, Singapore**
 
-### 序言
+### Preamble
 
-鉴于 2024 年 10 月 2 日 FlyWire 果蝇全脑连接组项目成果发表于《自然》第 634 卷（139,255 个经人工校对神经元），证明全尺度 1:1 数字复刻在工程上可行；
+Whereas the FlyWire project published the complete connectome of the adult fruit fly brain in *Nature*, vol. 634, on 2 October 2024 (139,255 proofread neurons), demonstrating the engineering feasibility of full-scale 1:1 digital replication;
 
-鉴于国际科学界于 2025 年 3 月苏黎世闭门会议提出"从果蝇大脑到数字世界"跃迁路线图；
+Whereas the international scientific community, at the closed-door meeting held in Zurich in March 2025, proposed the roadmap of transition "from a fruit fly brain to a digital world";
 
-各缔约方本着"先在孪生世界穷尽所有可能，再将安全结论迁移回现实"的使命共识，达成如下协议：
+The Parties, in the shared mission "to exhaust all possibilities in the twin world first, and then transfer safe conclusions back to reality", have agreed as follows:
 
-### 第一条 设立
+### Article 1 — Establishment
 
-设立全球数字仿真世界平台（Global Nexus Simulation Platform, GNSP），为多国共建、面向全学科的国际科学研究基础设施。
+A Global Nexus Simulation Platform (GNSP) is hereby established as an international scientific research infrastructure, jointly built by multiple nations and open to all disciplines.
 
-### 第二条 四项原则
+### Article 2 — Four Principles
 
-1. **多国共建**：平台由各缔约方科学院与研究型大学联合建设与运营；
-2. **数据共享**：全球观测数据在沙箱隔离前提下向平台研究员开放；
-3. **沙箱隔离**：全部实验仅在数字孪生沙箱内执行，采用单向数据闸（写方向物理断开），沙箱内操作不影响真实世界；
-4. **成果共有**：平台研究成果由各缔约方共有，并向全球科学界开放。
+1. **Joint construction by multiple nations**: the Platform shall be jointly built and operated by the academies of sciences and research universities of the Parties;
+2. **Shared data**: global observational data shall be made available to Platform researchers, subject to sandbox isolation;
+3. **Sandbox isolation**: all experiments shall be conducted exclusively within the digital twin sandbox, employing a one-way data gate (write direction physically disconnected); operations within the sandbox shall not affect the real world;
+4. **Shared outcomes**: research outcomes of the Platform shall be shared among the Parties and open to the global scientific community.
 
-### 第三条 缔约方
+### Article 3 — Parties
 
-中国科学院、美国国家科学院、德国马克斯·普朗克学会、英国皇家学会、法国国家科研中心（CNRS）、日本理化学研究所（RIKEN）、新加坡国立研究基金会、瑞士国家科学基金会、加拿大自然科学与工程研究理事会、澳大利亚研究理事会、以色列科学基金会、韩国国家研究基金会、荷兰皇家艺术与科学学院、瑞典皇家科学院（共 14 方），以及技术创始方 Google Research。
+The Chinese Academy of Sciences; the National Academy of Sciences of the United States; the Max Planck Society (Germany); the Royal Society (United Kingdom); the National Centre for Scientific Research, CNRS (France); RIKEN (Japan); the National Research Foundation (Singapore); the Swiss National Science Foundation; the Natural Sciences and Engineering Research Council of Canada; the Australian Research Council; the Israel Academy of Sciences and Humanities; the National Research Foundation of Korea; the Royal Netherlands Academy of Arts and Sciences; the Royal Swedish Academy of Sciences (14 Parties in total); and Google Research as founding technical partner.
 
-### 第四条 治理
+### Article 4 — Governance
 
-平台设全球治理委员会（由联合国教育、科学及文化组织总干事主持）、科学委员会（中国国家科学院任常任主席方，Google Research 任技术委员会主席方）。
+The Platform shall be governed by a Global Governance Committee (chaired by the Director-General of UNESCO), a Scientific Committee (with the Chinese Academy of Sciences as permanent chair and Google Research as chair of the Technical Committee).
 
-### 第五条 生效
+### Article 5 — Entry into Force
 
-本协议自 2028 年 1 月 1 日起生效，并提请联合国大会核可（见 A/RES/84/206，2029 年 9 月 27 日）。
+This Agreement shall enter into force on 1 January 2028, and shall be submitted to the United Nations General Assembly for endorsement (see A/RES/84/206, 27 September 2029).
 
 ---
 
-**签署页：** 14 方科学院代表与 Google Research 代表于新加坡完成签署。
+**Signature page:** signed in Singapore by the representatives of the fourteen academies of sciences and Google Research.
